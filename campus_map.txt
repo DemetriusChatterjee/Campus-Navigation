@@ -1,0 +1,13 @@
+NODES  
+Library  
+Cafeteria  
+Admin  
+Lab  
+Dorm  
+EDGES  
+Library,Cafeteria,2  
+Library,Admin,3  
+Cafeteria,Lab,4  
+Admin,Lab,1  
+Lab,Dorm,5  
+Cafeteria,Dorm,6
